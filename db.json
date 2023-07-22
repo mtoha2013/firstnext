@@ -1,0 +1,14 @@
+{
+    "phoneNumber": [
+        {
+            "id": 1,
+            "type": "personal",
+            "number": "09832209761"
+        },
+        {
+            "id": 2,
+            "type": "fax",
+            "number": "91-342-2567692"
+        }
+    ]
+}
